@@ -1,4 +1,4 @@
 # demo-rep
 This is my 1st git repository.
 <br>
-Author- Aadhya Dia
+Author- Aadhya Dia (muj student)
